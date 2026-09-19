@@ -53,5 +53,5 @@ Ensure you have Python installed along with pip.
 ### Installation
 1. Clone the repository:
    ```bash
-   git clone (https://github.com/your-username/agri-ai-plant-disease-detector.git)
+   git clone (https://github.com/subair247/agri-ai-plant-disease-detector.git)
    cd agri-ai-plant-disease-detector
